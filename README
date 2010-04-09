@@ -1,0 +1,15 @@
+git-git calls git from within git.
+
+So, if you need to fetch changes, instead of typing:
+
+  git fetch
+
+Now you can type:
+
+  git git fetch
+
+It even works recursively:
+
+  git git git git git git git git git fetch
+
+git-git is available on my github at http://github.com/jes5199/git-git
